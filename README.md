@@ -8,7 +8,7 @@ Through trial and error, we found that ffmpegcv was the most stable solution for
 This project offers a script to record a behaviour on multiple cameras. This can be used for 3D triangulation of motion tracking with, for instance, pose2sim workflow. Additionally, the script uses LSL threading to sychronize the webcam stream with other recorded signals (e.g., audio)
 
 ## Was this helpful?
-citation for this module: Kadavá, S., Snelder, J., Pouw, W. (2024). Recording from Multiple Webcams Synchronously while LSL Streaming [the day you viewed the site]. Retrieved from: https://envisionbox.org/multiple_webcam_record.html
+citation for this module: Kadavá, S., Snelders, J., Pouw, W. (2024). Recording from Multiple Webcams Synchronously while LSL Streaming [the day you viewed the site]. Retrieved from: https://envisionbox.org/multiple_webcam_record.html
 
 ## Contact
 sarka.kadava@donders.ru.nl
